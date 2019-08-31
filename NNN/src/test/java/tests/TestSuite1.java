@@ -22,5 +22,17 @@ public class TestSuite1 {
 	public void test4() {
 		System.out.println("test2");
 	}
+	@Test
+	public void flightstest5() {
+		System.out.println("test5");
+	}
+	@Test
+	public void flightstest6() {
+		System.out.println("test6");
+	}
+	@Test
+	public void flightstest7() {
+		System.out.println("test7");
+	}
 
 }
