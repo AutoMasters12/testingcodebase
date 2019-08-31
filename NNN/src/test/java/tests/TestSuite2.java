@@ -14,5 +14,13 @@ public class TestSuite2 {
 	public void test2() {
 		System.out.println("test2");
 	}
+	@Test
+	public void traintest2() {
+		System.out.println("test2");
+	}
+	@Test
+	public void traintest3() {
+		System.out.println("test2");
+	}
 
 }
